@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=300&section=header&text=HyeIn's%20GitHub&fontSize=70&fontColor=FFFFFF)
 ## 💫 My Github Stats : 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinlee725&show_icons=true&theme=buefy)
-<div class="github-card" data-github="hyeinlee725" data-width="400" data-height="317" data-theme="medium"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 <!--
 **hyeinlee725/hyeinlee725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
