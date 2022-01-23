@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=300&section=header&text=HyeIn's%20GitHub&fontSize=70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=300&section=header&text=HyeIn's%20GitHub&fontSize=70&fontColor=FFFFFF&fontAlign=70)
 ### 💫 My Github Stats : 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinlee725&show_icons=true&theme=buefy)
 
