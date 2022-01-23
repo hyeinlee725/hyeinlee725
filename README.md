@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=300&section=header&text=HyeIn's%20GitHub&fontSize=70&fontColor=FFFFFF&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=300&section=header&text=HyeIn's%20GitHub&fontSize=70&fontColor=FFFFFF)
 ### 💫 My Github Stats : 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinlee725&show_icons=true&theme=buefy)
-
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <!--
 **hyeinlee725/hyeinlee725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
