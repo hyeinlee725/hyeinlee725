@@ -4,9 +4,10 @@
 ### 💻 Languages : 
 <img src="https://img.shields.io/badge/Verilog-02D8B4?style=flat-square&logo=Verilog&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VHDL-75BAFF?style=flat-square&logo=VHDL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B8CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
 <!--
 **hyeinlee725/hyeinlee725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
