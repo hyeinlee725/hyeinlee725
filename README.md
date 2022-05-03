@@ -11,8 +11,9 @@
 
 <!--
 ### 🔭Graduate school Laboratory🔭 
-Artificial Intelligence Hardware
-Memory interface
+* Artificial Intelligence Hardware
+* Memory interface
+* Network Scheduling Using Reinforcement Learning
 -->
 
 ### 💫 My Github Stats 💫
