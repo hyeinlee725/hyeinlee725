@@ -12,7 +12,7 @@
 <!--
 ### 🔭Graduate school Laboratory🔭 
 * Artificial Intelligence Hardware
-* Memory interface
+** Memory interface
 * Network Scheduling Using Reinforcement Learning
 -->
 
