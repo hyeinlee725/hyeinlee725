@@ -13,7 +13,7 @@
 ### 🔭Graduate school Laboratory🔭 
 * Artificial Intelligence Hardware
 * Memory interface
-* Network Scheduling Using Reinforcement Learning
+* Network Scheduling Using Reinforcement Learning(DDQN)
 -->
 
 ### 💫 My Github Stats 💫
