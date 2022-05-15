@@ -13,7 +13,7 @@
 ### 🔭Graduate school Laboratory🔭 
 * Artificial Intelligence Hardware
 * Memory interface(AXI)
-* Network Scheduling Using Reinforcement Learning(DDQN)
+* Network Scheduling Using Reinforcement Learning
 * 
 -->
 
