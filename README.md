@@ -14,7 +14,8 @@
 * Artificial Intelligence Hardware
 * Memory interface(AXI)
 * Network Scheduling Using Reinforcement Learning
-* AXI Interface & Vortex
+* AXI Interface
+* Vortex
 
 -->
 
