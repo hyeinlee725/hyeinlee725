@@ -17,7 +17,6 @@
 - DDQN & PPO
 * AXI Interface
 * Vortex
-* 
 
 -->
 
