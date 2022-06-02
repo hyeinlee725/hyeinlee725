@@ -16,6 +16,8 @@
 * Network Scheduling Using Reinforcement Learning
 * AXI Interface
 * Vortex
+* Arria 10
+
 -->
 
 ### 💫 My Github Stats 💫
