@@ -14,8 +14,7 @@
 * Artificial Intelligence Hardware
 * Memory interface(AXI), Arria 10
 * Network Scheduling Using Reinforcement Learning
-* AXI Interface
-* Vortex
+* AXI Interface(Vortex)
 -->
 
 ### 💫 My Github Stats 💫
