@@ -10,11 +10,14 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <!--
 ### 🔭Graduate school Laboratory🔭 
-* Artificial Intelligence Hardware
+#### Artificial Intelligence Hardware
 * MMU(Matrix Multiplication Unit), Arria10
 * Memory interface(AXI Interface, Vortex)
-* Network Scheduling Using Reinforcement Learning
 
+
+####* Network Scheduling Using Reinforcement Learning
+* PPO
+* Network topology
 -->
 
 ### 💫 My Github Stats 💫
