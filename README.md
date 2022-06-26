@@ -17,7 +17,6 @@
 ####* Network Scheduling Using Reinforcement Learning
 * PPO
 * Network topology
-* 
 -->
 
 ### 💫 My Github Stats 💫
