@@ -11,8 +11,8 @@
 <!--
 ### 🔭Graduate school Laboratory🔭 
 #### Artificial Intelligence Hardware
-* MMU(Matrix Multiplication Unit), Arria10
-* Memory interface(AXI Interface, Vortex)
+##### * MMU(Matrix Multiplication Unit), Arria10
+##### * Memory interface(AXI Interface, Vortex)
 
 ####* Network Scheduling Using Reinforcement Learning
 * PPO
