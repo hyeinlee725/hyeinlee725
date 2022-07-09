@@ -15,7 +15,7 @@
 ##### * Memory interface(AXI Interface, Vortex)
 
 ####* Network Scheduling Using Reinforcement Learning
-* PPO
+* PPO / Reinforcement Learning
 * Network topology
 
 -->
