@@ -11,12 +11,14 @@
 <!--
 ### 🔭Graduate school Laboratory🔭 
 #### Artificial Intelligence Hardware
-##### * MMU(Matrix Multiplication Unit), Arria10
+##### * MMU(Matrix Multiplication Unit)
+##### * FPGA - Arria10
 ##### * Memory interface(AXI Interface, Vortex)
 
 ####* Network Scheduling Using Reinforcement Learning
 * PPO(Reinforcement Learning)
 * Network topology
+
 -->
 
 ### 💫 My Github Stats 💫
