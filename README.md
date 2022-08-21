@@ -12,8 +12,8 @@
 ### 🔭Graduate school Laboratory🔭 
 #### Artificial Intelligence Hardware
 ##### * MMU(Matrix Multiplication Unit)
-##### * FPGA - Arria10
-##### * Memory interface(AXI Interface, Vortex)
+###### * FPGA - Arria10
+###### * Memory interface(AXI Interface, Vortex)
 -->
 
 ### 💫 My Github Stats 💫
