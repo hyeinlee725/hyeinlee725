@@ -1,5 +1,4 @@
 <div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=300&section=header&text=Hye-In's%20GitHub&fontSize=70&fontColor=FFFFFF)
 ### 🌱 Programming Languages 🌱
 <img src="https://img.shields.io/badge/Verilog-02D8B4?style=flat-square&logo=Verilog&logoColor=white"/></a>
