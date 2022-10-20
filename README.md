@@ -11,11 +11,14 @@
 <img src="https://img.shields.io/badge/C-A8B8CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
+
+
 <!--
 ### 🔭Graduate school Laboratory🔭 
 #### Artificial Intelligence Hardware
+#### * Hardware Acclerator & Interface
 ##### * MMU(Matrix Multiplication Unit)
-###### * FPGA - Arria10
+###### * FPGA(Arria10)
 ###### * Memory interface
 ###### * AXI Interface, Vortex
 -->
