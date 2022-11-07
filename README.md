@@ -18,8 +18,7 @@
 ##### * MMU(Matrix Multiplication Unit)
 ###### * FPGA(Arria10)
 ###### * Memory interface
-###### * Virtual-physical address
-###### * pointer
+###### * Virtual-physical address(pointer)
 ###### * AXI Interface, Vortex(RISC-V)
 -->
 ### 💫 My Github Stats 💫
