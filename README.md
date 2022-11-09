@@ -16,7 +16,7 @@
 #### Artificial Intelligence Hardware
 #### * Hardware Acclerator & Interface
 ##### * MMU(Matrix Multiplication Unit)
-###### * FPGA(Arria10)
+###### * FPGA(Arria10) - Quartus II
 ###### * Memory interface
 ###### * Virtual-physical address(pointer)
 ###### * AXI Interface, Vortex(RISC-V)
