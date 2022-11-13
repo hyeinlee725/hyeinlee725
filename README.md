@@ -17,7 +17,7 @@
 #### * Hardware Acclerator & Interface(Memory interface)
 ##### * MMU(Matrix Multiplication Unit)
 ###### * FPGA(Arria10) - Quartus II
-###### * Virtual-physical address(pointer)
+###### * Virtual-physical address translate(MMU)
 ###### * AXI Interface, Vortex(RISC-V)
 -->
 ### 💫 My Github Stats 💫
