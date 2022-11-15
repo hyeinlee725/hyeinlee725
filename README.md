@@ -15,6 +15,7 @@
 ### 🔭Graduate school Laboratory🔭 
 #### Artificial Intelligence Hardware
 #### * Hardware Acclerator & Interface(Memory interface)
+##### * Dual-buffer Hardware Accelerator
 ##### * MMU(Matrix Multiplication Unit)
 ###### * FPGA(Arria10) - Quartus II
 ###### * Virtual-physical address translate(MMU)
