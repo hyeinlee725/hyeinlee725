@@ -18,7 +18,7 @@
 ##### * Dual-buffer Hardware Accelerator
 ##### * MMU(Matrix Multiplication Unit)
 ###### * FPGA(Arria10) - Quartus II
-###### * Virtual-physical address translate(MMU)
+###### * Virtual-physical address translate(Memory Management Unit, MMU)
 ###### * AXI Interface, Vortex(RISC-V)
 -->
 ### 💫 My Github Stats 💫
