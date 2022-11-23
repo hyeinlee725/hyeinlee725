@@ -17,7 +17,7 @@
 #### * Hardware Acclerator & Interface(Memory interface)
 ##### * Dual-buffer Hardware Accelerator
 ##### * MMU(Matrix Multiplication Unit)
-###### * FPGA(Arria10) - Quartus II
+###### * FPGA(Arria10) - Quartus II, Questasim
 ###### * Virtual-physical address translate(Memory Management Unit, MMU)
 ###### * RISC-V(Vortex) : AXI Interface, AHB
 
