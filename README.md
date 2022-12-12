@@ -16,7 +16,7 @@
 #### Artificial Intelligence Hardware
 #### * Hardware Acclerator & Interface(Memory interface)
 ##### * Dual-buffer Hardware Accelerator
-##### * DDR SDRAM(
+##### * DDR SDRAM
 ##### * MMU(Matrix Multiplication Unit)
 ###### * FPGA(Arria10) - Quartus II, Questasim Simulation Tool
 ###### * Virtual-physical address translate(Memory Management Unit, MMU)
