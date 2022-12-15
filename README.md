@@ -19,7 +19,7 @@
 ##### * DDR SDRAM
 ##### * MMU(Matrix Multiplication Unit)
 ###### * FPGA(Arria10) - Quartus II, Questasim Simulation Tool
-###### * Virtual-physical address translate(Memory Management Unit, MMU)
+###### * Virtual-physical address translate
 ###### * RISC-V(Vortex) : AXI Interface, AHB
 -->
 ### 💫 My Github Stats 💫
