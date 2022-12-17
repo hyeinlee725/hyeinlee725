@@ -19,7 +19,7 @@
 ##### * MMU(Matrix Multiplication Unit)
 ###### * FPGA(Arria10) - Quartus II, Questasim Simulation Tool
 ###### * Virtual-physical address translate
-###### * RISC-V(Vortex) : AXI Interface, AHB
+###### * RISC-V(Vortex) : AXI Interface, AHB Bus Interface
 -->
 ### 💫 My Github Stats 💫
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinlee725&show_icons=true&theme=buefy)s
