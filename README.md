@@ -13,11 +13,11 @@
 <!--
 ### 🔭Graduate school Laboratory🔭 
 #### Artificial Intelligence Hardware
+#### Hardware Design
 #### * Hardware Acclerator & Interface(Memory interface)
 ##### * Dual-buffer(DDR SDRAM)
 ###### * Data Prefetcher
 ##### * MMU(Matrix Multiplication Unit)
-##### * 
 ###### * FPGA(Arria10) - Quartus II, Questasim Simulation Tool & Modelsim
 ###### * Virtual-physical address translate
 
