@@ -13,14 +13,13 @@
 <!--
 ### 🔭Graduate school Laboratory🔭 
 #### Artificial Intelligence Hardware
-#### Hardware Design
+#### Hardware Design & 
 #### * Hardware Acclerator & Interface(Memory interface)
 ##### * Dual-buffer(DDR SDRAM)
 ###### * Data Prefetcher
 ##### * MMU(Matrix Multiplication Unit)
 ###### * FPGA(Arria10) - Quartus II, Questasim Simulation Tool & Modelsim
 ###### * Virtual-physical address translate
-
 -->
 ### 💫 My Github Stats 💫
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinlee725&show_icons=true&theme=buefy)s
