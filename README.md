@@ -13,7 +13,7 @@
 <!--
 ### 🔭Graduate school Laboratory🔭 
 #### Artificial Intelligence Hardware
-#### Hardware Design & 
+#### Hardware Design & State Machine Design
 #### * Hardware Acclerator & Interface(Memory interface)
 ##### * Dual-buffer(DDR SDRAM)
 ###### * Data Prefetcher
