@@ -20,7 +20,7 @@
 ##### * MMU(Matrix Multiplication Unit)
 ###### * FPGA(Arria10) - Quartus II, Questasim Simulation Tool & Modelsim
 ###### * Virtual-physical address translate
-###### * DDR
+###### * MAC Calculation
 -->
 ### 💫 My Github Stats 💫
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinlee725&show_icons=true&theme=buefy)s
