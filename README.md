@@ -21,6 +21,7 @@
 ###### * FPGA(Arria10) - Quartus II, Questasim Simulation Tool & Modelsim
 ###### * Virtual-physical address translate
 ###### * MAC Calculation
+###### * Gate level Simulation & RTL Simulation
 -->
 
 ### 💫 My Github Stats 💫
