@@ -14,7 +14,7 @@
 ### 🔭Graduate school Laboratory🔭 
 #### Artificial Intelligence Hardware
 #### Hardware Design & State Machine Design
-#### * Hardware Acclerator & Interface(Memory interface)
+#### * Hardware Acclerator & Memory interface
 ##### * Dual-buffer(DDR SDRAM)
 ###### * Data Prefetcher
 ##### * MMU(Matrix Multiplication Unit)
