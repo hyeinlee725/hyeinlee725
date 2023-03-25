@@ -15,6 +15,7 @@
 #### Artificial Intelligence Hardware
 #### Hardware Design & State Machine Design
 #### * Hardware Acclerator & Memory interface
+#### * Solve momory Interface Bottleneck
 ##### * Dual-buffer(DDR SDRAM)
 ###### * Data Prefetcher
 ##### * MMU(Matrix Multiplication Unit)
