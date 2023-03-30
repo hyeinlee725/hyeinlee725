@@ -20,7 +20,7 @@
 ###### * Data Prefetcher
 ##### * MMU(Matrix Multiplication Unit)
 ###### * Virtual-physical address translate
-###### * MAC Calculation & RCU & ISM & OSM
+###### * MAC Calculation & RCU & ISM & PB
 ###### * FPGA(Arria10) - Quartus II, Questasim Simulation Tool & Modelsim
 ###### * Gate level Simulation & RTL Simulation
 -->
