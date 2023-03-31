@@ -12,8 +12,10 @@
 
 <!--
 ### 🔭Graduate school Laboratory🔭 
-#### Artificial Intelligence Hardware
+### Artificial Intelligence Hardware
 #### Hardware Design & State Machine Design
+#### Handshake Protocol
+#### Timing Diagram
 #### * Hardware Acclerator & Memory interface
 #### * Solve momory Interface Bottleneck
 ##### * Dual-buffer(DDR SDRAM)
