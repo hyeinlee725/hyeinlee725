@@ -17,7 +17,7 @@
 #### Handshake Protocol
 #### Timing Diagram
 #### * Hardware Acclerator & Memory interface
-#### * Solve momory Interface Bottleneck
+#### * Solve Memory Interface Bottleneck
 ##### * Dual-buffer(DDR SDRAM)
 ###### * Data Prefetcher
 ##### * MMU(Matrix Multiplication Unit)
