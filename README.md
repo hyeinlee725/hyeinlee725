@@ -26,6 +26,7 @@
 ###### * Virtual-physical address translate
 ###### * FPGA(Arria10) - Quartus II, Questasim Simulation Tool & Modelsim
 ###### * Gate level Simulation & RTL Simulation
+###### * GOPS
 -->
 
 ### 💫 My Github Stats 💫
