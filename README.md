@@ -21,7 +21,7 @@
 
 ##### * Dual-buffer(DDR SDRAM)
 ###### * Data Prefetcher
-##### * MMU(Matrix Multiplication Unit) - RCU & ISM & PB
+##### * MMU(Matrix Multiplication Unit) - RCU & ISM & PB & OSM
 ###### * MAC Calculation
 ###### * Virtual-physical address translate
 ###### * FPGA(Arria10) - Quartus II, Questasim Simulation Tool & Modelsim
