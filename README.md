@@ -18,13 +18,13 @@
 #### Timing Diagram
 #### * Hardware Acclerator & Memory interface
 #### * Solve Memory Interface Bottleneck
-
+#### * Quartus II, Questasim Simulation Tool & Modelsim
 ##### * Dual-buffer(DDR SDRAM)
 ###### * Data Prefetcher
 ##### * MMU(Matrix Multiplication Unit) - RCU & ISM & PB & OSM
 ###### * MAC Calculation
 ###### * Virtual-physical address translate
-###### * FPGA(Arria10) - Quartus II, Questasim Simulation Tool & Modelsim
+###### * FPGA(Arria10)
 ###### * Gate level Simulation & RTL Simulation
 ###### * GOPS
 -->
