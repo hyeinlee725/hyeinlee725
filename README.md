@@ -18,7 +18,8 @@
 #### Timing Diagram
 #### * Hardware Acclerator & Memory interface
 #### * Solve Memory Interface Bottleneck
-#### * Quartus II, Questasim Simulation Tool & Modelsim
+
+##### * Quartus II, Questasim Simulation Tool & Modelsim
 ##### * Dual-buffer(DDR SDRAM)
 ###### * Data Prefetcher
 ##### * MMU(Matrix Multiplication Unit) - RCU & ISM & PB & OSM
