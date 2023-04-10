@@ -21,7 +21,7 @@
 
 ##### * Quartus II, Questasim Simulation Tool & Modelsim
 ##### * Dual-buffer(DDR SDRAM)
-###### * Data Prefetcher
+##### * Data Prefetcher
 ##### * MMU(Matrix Multiplication Unit) - RCU & ISM & PB & OSM
 ###### * MAC Calculation
 ###### * Virtual-physical address translate
