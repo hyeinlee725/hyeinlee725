@@ -18,7 +18,7 @@
 #### Timing Diagram
 #### * Hardware Acclerator & Memory interface
 #### * Solve Memory Interface Bottleneck
-#### * Matrix Multiplication
+#### * Matrix Multiplication Calculate
 
 ##### * Quartus II, Questasim Simulation Tool & Modelsim
 ##### * Dual-buffer(DDR SDRAM) & Single Buffer
