@@ -22,7 +22,7 @@
 
 
 ##### * Quartus II, Questasim Simulation Tool & Modelsim
-##### * Dual-buffer(DDR SDRAM) & Single Buffer
+##### * Dual-buffer & Single Buffer(DDR SDRAM)
 ##### * Data Prefetcher
 ##### * MMU(Matrix Multiplication Unit) - RCU & ISM & PB & OSM
 ###### * MAC Calculation
