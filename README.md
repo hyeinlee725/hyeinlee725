@@ -11,6 +11,9 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
 <!--
+### 🌱 Tool 🌱
+<img src="https://img.shields.io/badge/Quartus-02D8B4?style=flat-square&logo=Quartus&logoColor=white"/></a>
+
 ### 🔭Graduate school Laboratory🔭 
 ### Artificial Intelligence Hardware
 #### Hardware Design & State Machine Design
