@@ -23,7 +23,6 @@
 #### * Solve Memory Interface Bottleneck
 #### * Matrix Multiplication Calculate
 
-
 ##### * Quartus II, Questasim Simulation Tool & Modelsim
 ##### * Dual-buffer & Single Buffer(DDR SDRAM)
 ##### * Data Prefetcher
