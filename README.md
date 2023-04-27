@@ -31,7 +31,7 @@
 ###### * Virtual-physical address translate
 ###### * FPGA(Arria10)
 ###### * Gate level Simulation & RTL Simulation
-###### * GOPS
+###### * GOP/S
 -->
 
 ### 💫 My Github Stats 💫
