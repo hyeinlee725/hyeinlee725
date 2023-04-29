@@ -31,7 +31,7 @@
 ###### * Virtual-physical address translate
 ###### * FPGA(Arria10)
 ###### * Gate level Simulation & RTL Simulation
-###### * GOP/S
+###### * GOPS(Measure latency)
 -->
 ### 💫 My Github Stats 💫
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinlee725&show_icons=true&theme=buefy)s
