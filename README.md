@@ -23,9 +23,10 @@
 #### * Solve Memory Interface Bottleneck
 #### * Matrix Multiplication Calculate
 
+##### * Data Prefetcher
 ##### * Quartus, Questasim Simulation Tool & Modelsim
 ##### * Single Buffer(DDR SDRAM)
-##### * Data Prefetcher
+
 ##### * MMU(Matrix Multiplication Unit) - RCU & ISM & PB & OSM
 ###### * MAC Calculation
 ###### * Virtual-physical address translate
