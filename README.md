@@ -27,7 +27,7 @@
 ##### * Quartus, Questasim Simulation Tool & Modelsim
 ##### * Single Buffer(DDR SDRAM)
 ##### * MMU(Matrix Multiplication Unit) - RCU & ISM & PB & OSM
-###### * MAC Calculation
+###### * MAC Calculation & 
 ###### * Virtual-physical address translate
 ###### * FPGA(Arria10)
 ###### * Gate level Simulation & RTL Simulation
