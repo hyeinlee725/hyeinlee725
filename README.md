@@ -29,7 +29,7 @@
 ##### * MMU(Matrix Multiplication Unit) - RCU & ISM & PB & OSM
 ###### * MAC Calculation & 
 ###### * Virtual-physical address translate
-###### * FPGA(Arria10)
+###### * FPGA(Arria10 Board)
 ###### * Gate level Simulation & RTL Simulation
 ###### * GOPS(Measure latency)
 -->
