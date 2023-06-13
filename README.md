@@ -26,9 +26,8 @@
 ##### * Data Prefetcher
 ##### * Quartus, Questasim Simulation Tool & Modelsim
 ##### * Single Buffer(DDR SDRAM)
-##### * MMU(Matrix Multiplication Unit) - RCU & ISM & PB & OSM
-###### * MAC Calculation & 
-###### * Virtual-physical address translate
+##### * MMU(Matrix Multiplication Unit) - RCU & ISM & PB & OSM & MAC
+###### * MAC Calculation
 ###### * FPGA(Arria10 Board)
 ###### * Gate level Simulation & RTL Simulation
 ###### * GOPS(Measure latency)
