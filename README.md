@@ -22,7 +22,6 @@
 #### * Hardware Acclerator & Memory interface
 #### * Solve Memory Interface Bottleneck
 #### * Matrix Multiplication Calculate
-
 ##### * Data Prefetcher
 ##### * Quartus, Questasim Simulation Tool & Modelsim
 ##### * Single Buffer(DDR SDRAM)
