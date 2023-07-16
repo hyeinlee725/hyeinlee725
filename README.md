@@ -16,7 +16,8 @@
 
 ### 🔭Graduate school Laboratory🔭 
 ### Artificial Intelligence Hardware
-#### Hardware Design & State Machine Design
+#### Hardware Design
+#### State Machine Design
 #### Handshake Protocol
 #### Timing Diagram
 #### * Hardware Acclerator & Memory interface
