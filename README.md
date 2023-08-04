@@ -14,6 +14,7 @@
 ### 🌱 Tool 🌱
 <img src="https://img.shields.io/badge/Quartus-02D8B4?style=flat-square&logo=Quartus&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ModelSim-02D8B4?style=flat-square&logo=ModelSim&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/QuestaSim-02D8B4?style=flat-square&logo=QuestaSim&logoColor=white"/></a>
 
 ### 🔭Graduate school Laboratory🔭 
 ### Artificial Intelligence Hardware
