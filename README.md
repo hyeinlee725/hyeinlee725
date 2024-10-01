@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Verilog-02D8B4?style=flat-square&logo=Verilog&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VHDL-75BAFF?style=flat-square&logo=VHDL&logoColor=white"/></a>
 
+
 <!--
 ### 🌱 Tool 🌱
 <img src="https://img.shields.io/badge/Quartus-02D8B4?style=flat-square&logo=Quartus&logoColor=white"/></a>
