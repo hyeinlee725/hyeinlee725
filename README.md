@@ -23,7 +23,7 @@
 #### State Machine Design(FSM)
 #### Handshake Protocol
 #### Timing Diagram
-#### * Hardware Acclerator & Memory interface
+#### * Hardware Accelerator & Memory interface
 #### * Solve Memory Interface Bottleneck
 #### * Matrix Multiplication Calculate
 ##### * Data Prefetcher
